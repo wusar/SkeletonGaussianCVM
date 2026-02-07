@@ -20,7 +20,7 @@
 
 *   **[2026-02-05]** Paper is available on [arXiv](https://arxiv.org/abs/2602.04271).
 *   **[2026-02-05]** SkeletonGaussian is accepted to **CVM 2026** and recommended to **CVMJ**! 🎉
-*   **[Coming Soon]** Code and pretrained weights will be released soon. Please star this repo for updates! 🌟
+*   **[Coming Soon]** Code and pretrained weights will be released soon.
 
 ---
 

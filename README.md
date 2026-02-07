@@ -10,7 +10,7 @@
 
 **University of Science and Technology of China (USTC)**
 
-**AAAI 2026** / **Computational Visual Media (CVM) 2026**
+**Computational Visual Media (CVM) 2026**
 
 </div>
 
@@ -19,7 +19,7 @@
 ## 📢 News
 
 *   **[2026-02-05]** Paper is available on [arXiv](https://arxiv.org/abs/2602.04271).
-*   **[2026-02-05]** SkeletonGaussian is accepted to **AAAI 2026** and recommended to **CVMJ**! 🎉
+*   **[2026-02-05]** SkeletonGaussian is accepted to **CVM 2026** and recommended to **CVMJ**! 🎉
 *   **[Coming Soon]** Code and pretrained weights will be released soon. Please star this repo for updates! 🌟
 
 ---
@@ -53,7 +53,7 @@ If you find this work useful for your research, please consider citing our paper
 @inproceedings{wu2026skeletongaussian,
   title={SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization},
   author={Wu, Lifan and Zhu, Ruijie and Ai, Yubo and Zhang, Tianzhu},
-  booktitle={AAAI},
+  booktitle={Computational Visual Media (CVM)},
   year={2026}
 }
 ```
